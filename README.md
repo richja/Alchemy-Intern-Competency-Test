@@ -1,4 +1,5 @@
 ## Alchemy Intern Competency Test
+**Please check the _code_ branch for the coding task.**
 
 #### 1. Can you list few techniques which you can use to make responsive websites as a frontend developer?
 - Using a UI framework, such as Bootstrap, Material UI, Semantic UI, and Onsen UI
