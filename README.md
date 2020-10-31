@@ -53,3 +53,6 @@ This is significantly easier for a developer to read and work with - the API wor
 By using local storage with Javascript, an API like Web Storage API, and utilising the cache (for example when creating web apps, making it into a PWA and using service workers)
 
 #### 8. Pick a site you are familiar with and list 3-5 things you would do to improve its UI/UX.
+https://www.facebook.com/
+
+I personally despise the current UI of the desktop version of Facebook. It looks too much like a mobile version of the website just centered with useless elements on the sides to fill up the empty space. I would remove the left side's content entirely - it serves no purpose since the same shortcuts exist on the top bar. I would make the feed wider and instead of being centered I would move it slightly to the right, to eliminate some of the empty space between it and the contacts list. I would move the Stories feed, the status update text bar, and the Rooms tool to the left side where the list of shortcuts is currently. 
