@@ -45,7 +45,7 @@ export default {
           vm.image = vm.baseUrl + data.data.results[result].poster_path;
         } else {
           // If a film doesn't have a poster path in the database, a 404 image is displayed
-          vm.image = require("../assets/lal_edited.jpg");
+          vm.image = require("../../assets/lal_edited.jpg");
           console.log("No image found!");
         }
       })
